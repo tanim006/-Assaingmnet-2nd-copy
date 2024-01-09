@@ -82,7 +82,7 @@ body {
 }
 
 .welcome-img {
-    background-image: url('/resources/Vectorrr.png');
+    background-image: url('../resources/Vectorrr.png');
     width: 1320px;
     height: 600px;
     position: relative;
